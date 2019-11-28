@@ -9,14 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+Innovative and high-impact change agent armed with 11+ years of experience in leading analytic teams, developing
+strategies for effective data analysis/analytics and implementing strategies to translate raw data into valuable business
+insights. Highly analytical with hands-on experience in developing best-in-class analytics that create quantifiable value for
+customers using well-developed knowledge of machine learning, deep learning and advanced analytics. Known and
+respected for proven ability to quickly analyze needs, develop concepts and provide fast project turnaround.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Computer Science Engineering, Anna University, 2007
+* Master of Computing, National University of Singapore, 2011
 
 Work experience
 ======
+
+* Chief Technology Officer, Omnistream Co Sep. 2019 – Oct 2019
+	* Drive technology and data strategy to scale across multiple clients.
+	* Lead a team of engineers and data scientists to build high quality analytic solutions.
+
+
 * Senior Data Scientist – Teradata Apr. 2015 – July 2019
 	* Enable the organization to drive efficiencies and improvements through data driven decisions
 	* Support the creation of Data Science & Artificial Intelligence and strategy
@@ -43,20 +54,29 @@ of America
 	* Supported, maintained, documented, and wrote unit tests for software.
 
   
-Skills
+Core Functional Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Technical Skills
+	* Artificial Intelligence/Deep Learning
+	* Machine Learning
+* Team Management
+  * Leadership & Mentoring
+  * Staff Training & Development
+  * Information Dissemination
+* Operations Management
+	* Strategic Planning
+	* Thought Leadership
+	* Resource Management
+
+Awards
+======
+* IBM Eminence and Excellence
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Prediction of duration and impact of non-recurrent events in transportation networks,S.
+Blandin, V. Gopal, K. Thirumalai, J. Cheong, TRISTAN 2013
   
 Talks
 ======
@@ -64,11 +84,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
