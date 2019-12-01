@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karthik Bharadwaj Thirumalai"
+title                    : "KB"
 title_separator          : "-"
 name                     : &name "Karthik Bharadwaj Thirumalai"
 description              : &description "personal description"
@@ -308,5 +308,5 @@ compress_html:
     envs: development
 # Theme
 
-#remote_theme: mmistakes/minimal-mistakes
-#minimal_mistakes_skin: "dark"
+
+minimal_mistakes_skin: "dark"
