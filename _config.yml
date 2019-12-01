@@ -309,5 +309,5 @@ compress_html:
     envs: development
 # Theme
 
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
 #minimal_mistakes_skin: "dark"
