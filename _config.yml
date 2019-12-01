@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title:                     "KB"
+title                    :  "KB"
 title_separator          : "-"
 name                     : &name "Karthik Bharadwaj Thirumalai"
 description              : &description "personal description"
 url                      : https://karthikbharadwaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://karthikbharadwaj.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "karthikbharadwaj/karthikbharadwaj.github.io"
 
 masthead_title           : "KB"
