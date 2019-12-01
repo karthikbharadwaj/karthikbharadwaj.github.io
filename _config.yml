@@ -310,4 +310,4 @@ compress_html:
 # Theme
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
+#minimal_mistakes_skin: "dark"
