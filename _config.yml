@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://karthikbharadwaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karthikbharadwaj/karthikbharadwaj.github.io"
-remote_theme: mmistakes/minimal-mistakes
+
 masthead_title           : "KB"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -306,5 +306,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# Theme
 
-
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
