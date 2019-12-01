@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KB"
+title:                     "KB"
 title_separator          : "-"
 name                     : &name "Karthik Bharadwaj Thirumalai"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Karthik Bharadwaj"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Analytics"
   location         : "Singapore"
   email            :
   uri              :
@@ -98,12 +98,12 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "karthik-bharadwaj-8684369/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
