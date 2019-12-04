@@ -7,15 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :  "KB"
+title                    : "Karthik Bharadwaj"
 title_separator          : "-"
 name                     : &name "Karthik Bharadwaj Thirumalai"
-description              : &description "personal description"
+description              : &description "Data Scientist| Leader | Speaker"
 url                      : https://karthikbharadwaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://karthikbharadwaj.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karthikbharadwaj/karthikbharadwaj.github.io"
-
-masthead_title           : "KB"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,9 +82,13 @@ analytics:
 author:
   name             : "Karthik Bharadwaj"
   avatar           : "profile.png"
-  bio              : "Analytics"
+  bio              : "Artificial Intelligence | Leader| Speaker"
   location         : "Singapore"
+  employer         :
+  pubmed           : ""
+  googlescholar    : ""
   email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "karthikbharadwaj"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "karthik-bharadwaj-8684369/"
+  linkedin         : "
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "learndatascience"
   vine             :
   weibo            :
   xing             :
@@ -252,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Singapore/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -306,7 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-# Theme
-
-
-minimal_mistakes_skin: "dark"
