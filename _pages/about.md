@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-
 Welcome, to my personal website.
 ======
 
